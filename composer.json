@@ -2,5 +2,8 @@
     "name": "zw/dk-php-with-composer",
     "require": {
         "gamegos/jwt": "^0.1.1"
+    },
+    "scripts": {
+        "start": "php -S 0.0.0.0:5000 -t ."
     }
 }
