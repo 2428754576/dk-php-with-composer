@@ -1,0 +1,6 @@
+{
+    "name": "zw/dk-php-with-composer",
+    "require": {
+        "gamegos/jwt": "^0.1.1"
+    }
+}
